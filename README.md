@@ -14,6 +14,8 @@ Step 2 for those coding along
 Download the titanic  dataset from my github repo 
 Store it in your local computer in a folder
 The file is CSV in nature. 
+Create a virtual environment using the command python3 -m venv <nameofenv>
+ Activate your virtual environment
 Import required libraries namely :
 Import pandas as pd
 import numpy as np
